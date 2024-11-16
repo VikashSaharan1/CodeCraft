@@ -1,6 +1,6 @@
-# Problem-Solving Questions and Answers Repository
+# CodeCraft: Problem-Solving Hub
 
-Welcome to the **Problem-Solving Questions and Answers Repository**! This repository is designed to help developers enhance their problem-solving skills by exploring a wide range of questions along with their detailed solutions. Whether you're preparing for coding interviews, improving your algorithmic thinking, or simply sharpening your programming knowledge, this repository is a valuable resource.
+Welcome to the **CodeCraft: Problem-Solving Hub**! This repository is designed to help developers enhance their problem-solving skills by exploring a wide range of questions along with their detailed solutions. Whether you're preparing for coding interviews, improving your algorithmic thinking, or simply sharpening your programming knowledge, this repository is a valuable resource.
 
 ---
 
